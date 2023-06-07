@@ -1,0 +1,15 @@
+.container {
+    margin-top: 50px;
+}
+
+.toggle-button {
+    margin-bottom: 20px;
+}
+
+.hidden {
+    display: none;
+}
+
+#passwords-table {
+    display: none;
+}
